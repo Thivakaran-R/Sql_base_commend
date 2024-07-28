@@ -8,7 +8,7 @@ INSERT INTO Student VALUES(4, "VBC",8.0);
 INSERT INTO Student VALUES (5, "ABC",8);
 
 -- show the table values or data
-SELECT  * FROM Student;
+SELECT  * FROM student;
 
 -- SELECTcommand using Select column value
 
